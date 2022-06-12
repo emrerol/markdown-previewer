@@ -1,1 +1,2 @@
-*.jsx   eol=lf
+*.jsx linguist-detectable=true
+*.css linguist-detectable=false
