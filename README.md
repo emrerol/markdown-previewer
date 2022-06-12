@@ -7,7 +7,7 @@
 - TailwindCSS
 
 #### Default Hali
-[default](https://user-images.githubusercontent.com/66169656/173253638-d2dc93ef-7ed4-43ed-b878-91fa8b17844c.png)
+![default](https://user-images.githubusercontent.com/66169656/173253638-d2dc93ef-7ed4-43ed-b878-91fa8b17844c.png)
 
 
 #### Örnek Yazı
